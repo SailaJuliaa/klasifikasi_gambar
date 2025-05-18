@@ -1,0 +1,6 @@
+TensorFlow     : 2.18.0
+NumPy          : 2.0.2
+Seaborn        : 0.13.2
+Matplotlib     : 3.10.0
+Scikit-learn   : 1.6.1
+split-folders  : 0.5.1
